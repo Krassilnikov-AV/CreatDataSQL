@@ -9,7 +9,7 @@
 в пересечение строки и столбца таблицы можно занести только одно значение;
 все операции выполняются над целыми отношениями и результатом этих операций является отношение.
 
-![пример таблицы] (https://github.com/Krassilnikov-AV/CreatDataSQL/blob/master/CreateDataBaseSQL/images/creatSQL.PNG)
+![creatSQL](https://user-images.githubusercontent.com/61631173/83799294-43309880-a6ae-11ea-8cc4-c8b207bae5ad.PNG)
 
 
 
