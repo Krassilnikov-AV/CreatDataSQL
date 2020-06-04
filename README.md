@@ -9,7 +9,10 @@
 в пересечение строки и столбца таблицы можно занести только одно значение;
 все операции выполняются над целыми отношениями и результатом этих операций является отношение.
 
-![Image alt] (https://github.com/Krassilnikov-AV/CreatDataSQL/blob/master/CreateDataBaseSQL/images/creatSQL.PNG)
+![пример таблицы] (https://github.com/Krassilnikov-AV/CreatDataSQL/blob/master/CreateDataBaseSQL/images/creatSQL.PNG)
+
+<img src="resources/creatSQL.PNG" width="200" height="50"/>
+
 
 - **отношение**  – это структура данных целиком, набор записей (в обычном понимании – таблица) , в  примере –это Сотрудник;
 
