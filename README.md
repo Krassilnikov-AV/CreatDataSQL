@@ -11,8 +11,9 @@
 
 ![пример таблицы] (https://github.com/Krassilnikov-AV/CreatDataSQL/blob/master/CreateDataBaseSQL/images/creatSQL.PNG)
 
-<img src="resources/creatSQL.PNG" width="200" height="50"/>
+<img CreateDataBaseSQL ="blob/master/CreateDataBaseSQL/images/creatSQL.PNG" width="200" height="50"/>
 
+https://github.com/Krassilnikov-AV/CreatDataSQL/blob/master/CreateDataBaseSQL/images/creatSQL.PNG
 
 - **отношение**  – это структура данных целиком, набор записей (в обычном понимании – таблица) , в  примере –это Сотрудник;
 
